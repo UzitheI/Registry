@@ -1,0 +1,12 @@
+.venv
+node_modules
+.eslintrc.cjs
+package-lock.json
+package.json
+vite.config.js
+tailwind.config.ts
+postcss.config.mjs
+next.config.mjs
+tsconfig.json
+next-env.d.ts
+.next
